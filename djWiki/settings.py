@@ -29,6 +29,7 @@ ALLOWED_HOSTS = [
     '127.0.0.1',
     'localhost',
     '10.0.0.90',  # add your local IP address here
+    'ec2-18-223-205-172.us-east-2.compute.amazonaws.com',
 ]
 
 
